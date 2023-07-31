@@ -30,6 +30,9 @@ As a business owner, it would be helpful to be able to view and manage the depar
 * Use console.table to print MySQL rows to the console. There is a built-in version of console.table, but the NPM package formats the data a little better for our purposes.
 * npm install console.table --save
 
+## Contributing
+Information on mysql2: https://www.npmjs.com/package/mysql2
+
 ## Tech Used
 * inquirer
 * mySQL
